@@ -6,3 +6,7 @@ This site will constantly be updated to include any new programs used for teachi
 ## Code Walkthrough: Sequencing
 
 https://youtu.be/WYvCzBE75IY
+
+## Code Walkthrough: Repeats 
+
+https://youtu.be/plMOePXgICw
