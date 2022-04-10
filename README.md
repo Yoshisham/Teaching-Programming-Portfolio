@@ -10,3 +10,7 @@ https://youtu.be/WYvCzBE75IY
 ## Code Walkthrough: Repeats 
 
 https://youtu.be/plMOePXgICw
+
+## "Loops: Animal Parade" Code Creation Explanation
+
+https://youtu.be/JZUU_ht_U1k
