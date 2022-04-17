@@ -18,3 +18,7 @@ https://youtu.be/JZUU_ht_U1k
 ## Code Walkthrough: Nested Repeats
 
 https://youtu.be/6f29L1bnodc
+
+## Code Walkthrough: Events
+
+https://youtu.be/s1bzl-Oe4vo
