@@ -1,33 +1,24 @@
 ## Joshue Aguirre's Teaching Portfolio
 
-### Markdown
+### Video Tutorials
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+M# Teaching-Programming-Portfolio
+This is the start of my web-based Teaching Programming Portfolio
 
-```markdown
-Syntax highlighted code block
+This site will constantly be updated to include any new programs used for teaching
 
-# Header 1
-## Header 2
-### Header 3
+## Code Walkthrough: Sequencing
 
-- Bulleted
-- List
+https://youtu.be/WYvCzBE75IY
 
-1. Numbered
-2. List
+## Code Walkthrough: Repeats 
 
-**Bold** and _Italic_ and `Code` text
+https://youtu.be/plMOePXgICw
 
-[Link](url) and ![Image](src)
-```
+## "Loops: Animal Parade" Code Creation Explanation
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+https://youtu.be/JZUU_ht_U1k
 
-### Jekyll Themes
+## Code Walkthrough: Nested Repeats
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yoshisham/Teaching-Programming-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://youtu.be/6f29L1bnodc
