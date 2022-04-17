@@ -1,5 +1,3 @@
-## Joshue Aguirre's Teaching Portfolio
-
 ## Video Tutorials
 
 ### Code Walkthrough: Sequencing
