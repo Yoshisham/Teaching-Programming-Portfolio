@@ -14,3 +14,7 @@ https://youtu.be/plMOePXgICw
 ## "Loops: Animal Parade" Code Creation Explanation
 
 https://youtu.be/JZUU_ht_U1k
+
+## Code Walkthrough: Nested Repeats
+
+https://youtu.be/6f29L1bnodc
