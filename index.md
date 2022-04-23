@@ -24,4 +24,4 @@
 
 ### Code Walkthrough: Variables
 
-[https://youtu.be/B9iJA1tIfD0](https://youtu.be/B9iJA1tIfD0)
+[https://youtu.be/YEFUfeCKDGQ](https://youtu.be/YEFUfeCKDGQ)
