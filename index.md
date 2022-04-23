@@ -21,3 +21,7 @@
 ### Code Walkthrough: Events
 
 [https://youtu.be/s1bzl-Oe4vo](https://youtu.be/s1bzl-Oe4vo)
+
+### Code Walkthrough: Events 
+
+[https://youtu.be/B9iJA1tIfD0](https://youtu.be/B9iJA1tIfD0)
