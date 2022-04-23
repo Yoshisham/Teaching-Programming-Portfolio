@@ -22,3 +22,7 @@ https://youtu.be/6f29L1bnodc
 ## Code Walkthrough: Events
 
 https://youtu.be/s1bzl-Oe4vo
+
+## Code Walkthrough: Variables
+
+https://youtu.be/B9iJA1tIfD0
