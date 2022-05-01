@@ -26,3 +26,7 @@ https://youtu.be/s1bzl-Oe4vo
 ## Code Walkthrough: Variables
 
 https://youtu.be/YEFUfeCKDGQ
+
+## Code Walkthrough: Conditional Loops 
+
+https://youtu.be/B5XvDTZL9Ek
