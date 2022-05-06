@@ -30,3 +30,7 @@ https://youtu.be/YEFUfeCKDGQ
 ## Code Walkthrough: Conditional Loops 
 
 https://youtu.be/B5XvDTZL9Ek
+
+## Code Walkthrough: If Statements
+
+https://youtu.be/p88Lu7eabXs
