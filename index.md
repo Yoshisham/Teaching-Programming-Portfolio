@@ -37,3 +37,7 @@
 ### Code Walkthrough: Nested If/Else 
 
 [https://youtu.be/WPOk-kHogjg](https://youtu.be/WPOk-kHogjg)
+
+### Code Walkthrough: Compound Conditionals
+
+[https://youtu.be/MfMt0qyFny8](https://youtu.be/MfMt0qyFny8)
