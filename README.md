@@ -42,3 +42,7 @@ https://youtu.be/WPOk-kHogjg
 ## Code Walkthrough: Compound Conditionals 
 
 https://youtu.be/MfMt0qyFny8
+
+## Code Walkthrough: Abstraction
+
+https://youtu.be/8WywGLnZJrM
