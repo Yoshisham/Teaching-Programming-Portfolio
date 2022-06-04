@@ -46,3 +46,7 @@ https://youtu.be/MfMt0qyFny8
 ## Code Walkthrough: Abstraction
 
 https://youtu.be/8WywGLnZJrM
+
+## Code Walkthrough: Lists
+
+https://youtu.be/P6bFJwEFmo4
