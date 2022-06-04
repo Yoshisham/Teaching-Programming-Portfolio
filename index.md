@@ -45,3 +45,7 @@
 ### Code Walkthrough: Abstraction
 
 [https://youtu.be/8WywGLnZJrM](https://youtu.be/8WywGLnZJrM)
+
+### Code Wlakthrouhg: Lists
+
+[https://youtu.be/P6bFJwEFmo4](https://youtu.be/P6bFJwEFmo4)
